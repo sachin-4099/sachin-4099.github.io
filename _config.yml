@@ -9,8 +9,8 @@ description: >
 baseurl: ""
 url: "https://sachin-4099.github.io/"
 github_username:  sachin-4099
-#disqus_baseurl: "https://divyanshu132.github.io/"
-#disqus_shortname: https-divyanshu132-github-io
+disqus_baseurl: "https://sachin-4099.github.io/"
+disqus_shortname: https-sachin-4099-github-io
 permalink: :title
 
 excerpt_seperator: <!-break->
