@@ -36,7 +36,7 @@ author:
   name:             Sachin Agarwal
   github:           sachin-4099
   email:            sachinagarwal0499@gmail.com
- # gravatar_md5:     2850fb9344edf290ac29710b26a9c2d0
+  gravatar_md5:     3b17567050e1b78e8f900d32d12f105c
 
 # External gems
 gems:
