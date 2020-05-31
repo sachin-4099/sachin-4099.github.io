@@ -2,7 +2,7 @@
 layout: post
 title: GSoC 2020 Acceptance
 comments: true
-tags: [ gsoc, Sympy]
+tags: [ gsoc, SymPy]
 ---
 
 <img src="/public/gsoc.png" style="width:30%;height:30%;float:left;" />
@@ -10,7 +10,7 @@ tags: [ gsoc, Sympy]
  
 <br><br><br><br><br><br><br><br>
 
-The results of **[Google Summer of Code](https://summerofcode.withgoogle.com/organizations/4831132022996992/#5816442299088896)** were out on 04 May 2020 and I am pleased to share with you that my proposal with **[Sympy](http://sympy.org)** was accepted.  
+The results of **[Google Summer of Code](https://summerofcode.withgoogle.com/organizations/4831132022996992/#5816442299088896)** were out on 04 May 2020 and I am pleased to share with you that my proposal with **[SymPy](http://sympy.org)** was accepted.  
 
 I would like to thank all the members of the organisation especially [Kalevi Suominen](https://github.com/jksuom) for guiding me in my proposal and PR's. I am really excited to work for such an amazing organization.                
 
